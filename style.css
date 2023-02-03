@@ -1,0 +1,427 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.main-navbar a {
+    color: #f5f5f7;
+text-decoration: none;
+    margin: 0px 15px 0px 15px;
+    font-weight:100 ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:11px;
+  }
+  
+
+  .fa-apple, .fa-search, .fa-envelope-open-o{
+    font-size: 15px !important;
+    color: #f5f5f7;
+  }
+
+
+  .main-navbar{
+    background-color:rgb(48, 48, 50);
+    text-align: center;
+    padding: 15px;
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+  }
+
+
+  .main-i-phone-14-pro{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-top: 40px;
+  }
+
+  .heading-iphone-14-pro{
+
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    
+  }
+
+
+  
+
+  .pro-beyond{
+
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 27px;
+    margin-top: 5px;
+  }
+
+  .learn-more{
+
+    color: rgb(0, 77, 184);
+    margin-right: 10px;
+    margin-top: 10px;
+  }
+
+
+  .main-learn-more-buy{
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+  }
+
+
+  .buy{
+    margin-left: 10px;
+    margin-top: 10px;
+    color: rgb(0, 77, 184);
+
+  }
+
+  
+
+  .img-iphone-14-pro{
+
+    margin-top: 20px;
+    width: 900px;
+  }
+
+
+
+
+
+  
+  .main-i-phone-14{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-top: 40px;
+  }
+
+  .heading-iphone-14{
+
+    color: black;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    
+  }
+
+  .heading-iphone-14-big-and-bigger{
+
+    font-size: 25px;
+    color: black;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+    
+  }
+
+
+  
+
+  .learn-more{
+
+    color: rgb(0, 77, 184);
+    margin-right: 10px;
+    margin-top: 15px;
+  }
+
+
+  .main-learn-more-buy{
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+  }
+
+
+  .buy{
+    margin-left: 10px;
+    margin-top: 15px;
+    color: rgb(0, 77, 184);
+
+  }
+
+
+
+  .img-iphone-14{
+
+    width: 400px;
+    margin-top: 20px;
+  }
+
+
+
+
+
+
+
+.main-div-two-hands{
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
+   .heading-iphone-14{
+
+    color: black;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    
+  }
+
+  .heading-iphone-14-big-and-bigger{
+
+    font-size: 25px;
+    color: black;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+    
+  }
+
+
+  
+
+  .learn-more{
+
+    color: rgb(0, 77, 184);
+    margin-right: 10px;
+    margin-top: 15px;
+  }
+
+
+  .main-learn-more-buy{
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+  }
+
+
+  .buy{
+    margin-left: 10px;
+    margin-top: 15px;
+    color: rgb(0, 77, 184);
+
+  }
+
+
+
+  .img-iphone-14{
+
+    width: 400px;
+    margin-top: 20px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  .main-apple-watch{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-top: 40px;
+    background-color: black;
+  }
+
+  .heading-watch{
+
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    
+  }
+
+
+  
+
+  .heading-watch-healthy-leap-ahead{
+
+    font-size: 25px;
+    color: white;
+    margin-top: 10px;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+    
+  }
+
+
+  
+
+  
+
+  .learn-more{
+
+    color: dodgerblue;
+    margin-right: 10px;
+    margin-top: 15px;
+  }
+
+
+  .main-learn-more-buy{
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+  }
+
+
+  .buy{
+    margin-left: 10px;
+    margin-top: 15px;
+    color:dodgerblue
+
+  }
+
+
+
+  .img-apple-watch-series-8{
+
+    width: 600px;
+    margin-top: 20px;
+  }
+
+
+
+.watch{
+  font-size: 40px !important;
+  text-decoration: none;
+}
+
+
+.watch-anker{
+
+  text-decoration: none;
+}
+
+
+
+.series-8{
+
+  letter-spacing: 3px;
+  color: rgba(255, 0, 0, 0.719);
+  font-size: 17px;
+  font-weight: 300;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 5px;
+}
+
+
+
+.main-div-of-mackbook-and-homepod{
+
+  display:  flex;
+  justify-content: center;
+  align-items: center;
+  
+  
+  
+  
+}
+
+
+
+
+.dark-black-div-of-mackbook-and-homepod{
+
+  background-color: black;
+  margin: 10px;
+  width: 1000px;
+  height: 800px;
+  display: flex;
+  flex-wrap: wrap;
+ 
+}
+
+
+.img-of-macbook{
+
+
+  padding: 50px;
+  height: 500px;
+}
+
+
+.img-of-homepod{
+
+  padding: 50px;
+  height: 500px;
+}
+
+
+.main-home-pod{
+  text-align: center;
+  width: 100%;
+  height: auto;
+  margin-top: 50px;
+}
+
+
+
+.main-home-pod-learn-more-buy{
+
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 100%;
+  height: auto;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+
+  
+}
